@@ -2,6 +2,7 @@
 Sistem klasifikasi sentimen dan peringkasan otomatis ulasan produk menggunakan model IBM Granite 3.3 8b melalui Replicate API untuk ekstraksi insight dari data tekstual.
 
 📊 Automated Sentiment Classification and Summarization of Product Reviews using IBM Granite 3.3 8b
+
 📌 Project Overview
 Proyek ini mengimplementasikan alur kerja analisis data teks end-to-end untuk mengolah ulasan pelanggan yang tidak terstruktur. Dengan menggunakan model IBM Granite 3.3 8b melalui Replicate API, proyek ini mampu melakukan klasifikasi sentimen secara otomatis dan merangkum poin-poin penting dari ratusan baris teks ulasan dalam hitungan detik.
 
